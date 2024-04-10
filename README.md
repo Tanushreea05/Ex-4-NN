@@ -157,6 +157,7 @@ print(classification_report(y_test,predictions))
 ```
 
 <H3>Output:</H3>
+
 ![nn 4 op](https://github.com/Tanushreea05/Ex-4-NN/assets/138849166/67e2ff8e-1044-4d77-86db-dee9f55b64ea)
 
 
